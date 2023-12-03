@@ -1,0 +1,5 @@
+rootProject.name = 'centralized-auth-service'
+include 'auth-service'
+include 'auth-service-shared'
+include 'test-client'
+
